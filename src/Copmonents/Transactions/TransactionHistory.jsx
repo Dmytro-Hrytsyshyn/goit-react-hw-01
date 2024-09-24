@@ -25,5 +25,3 @@ const transactionsHistory = ({ items }) => {
 };
 
 export default transactionsHistory;
-
-// className={styles.transaction_table_td}
