@@ -1,6 +1,6 @@
-import Profile from "./Copmonents/Profile/Profile";
-import FriendList from "./Copmonents/FriendList/FriendList";
-import TransactionHistory from "./Copmonents/Transactions/TransactionHistory";
+import Profile from "./Components/Profile/Profile";
+import FriendList from "./Components/FriendList/FriendList";
+import TransactionHistory from "./Components/Transactions/TransactionHistory";
 
 import ProfileData from "./Profile.json";
 import friends from "./friends.json";
